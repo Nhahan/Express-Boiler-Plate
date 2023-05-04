@@ -1,0 +1,24 @@
+# Node.js build artifacts
+dist/
+node_modules/
+
+# TypeScript build artifacts
+*.tsbuildinfo
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Test reports
+coverage/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# macOS file system metadata
+.DS_Store
